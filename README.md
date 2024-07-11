@@ -8,7 +8,7 @@ This script retrieves and displays a list of users who have read access permissi
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repo_url>
+    git clone https://github.com/kumarbhosale/repo-access-viewer-script.git
     ```
 
 2.  **Make the script executable:**
